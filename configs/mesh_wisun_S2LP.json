@@ -19,6 +19,7 @@
             "target.device_has_add": ["802_15_4_PHY"]
         },
         "K64F": {
+	        "enable-led-control-example": true,
             "LED": "LED_RED",
             "BUTTON": "SW2"
         },
@@ -27,6 +28,7 @@
             "BUTTON": "SW2"
         },
         "NUCLEO_F429ZI":  {
+	        "enable-led-control-example": true,
             "LED": "LED_RED",
             "BUTTON": "USER_BUTTON",
             "BUTTON_MODE": "PullDown"
