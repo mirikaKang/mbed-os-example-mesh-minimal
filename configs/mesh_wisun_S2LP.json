@@ -11,7 +11,7 @@
             "nsapi.default-mesh-type": "WISUN",
             "mbed-mesh-api.wisun-network-name": "\"Wi-SUN Network\"",
             "nanostack.configuration": "ws_router",
-            "mbed-trace.enable": false,
+            "mbed-trace.enable": true,
             "platform.stdio-convert-newlines": true,
             "platform.stdio-baud-rate": 115200,
             "platform.stdio-buffered-serial": true,
